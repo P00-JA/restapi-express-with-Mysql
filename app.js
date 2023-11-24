@@ -172,7 +172,6 @@ app.delete("/users/:id", async (req, res) => {
   }
 });
 
-
 /**
  * @swagger
  * /users/{id}:
